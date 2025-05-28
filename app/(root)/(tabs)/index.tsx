@@ -14,7 +14,7 @@ export default function Index() {
         Welcome to Brain Rot
       </Text>
 
-      <Text className="font-bold text-lg color-green-600">Welcome</Text>
+      <Text className="font-bold text-lg color-green-600 mt-11">Welcome</Text>
 
       <Link href="/sign-in">Sign In</Link>
       <Link href="/explore">Explore</Link>
