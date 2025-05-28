@@ -10,6 +10,12 @@ export default function Index() {
         alignItems: "center",
       }}
     >
+      <Text className="font-bold text-2xl color-slate-500">
+        Welcome to Brain Rot
+      </Text>
+
+      <Text className="font-bold text-lg color-green-600">Welcome</Text>
+
       <Link href="/sign-in">Sign In</Link>
       <Link href="/explore">Explore</Link>
       <Link href="/profile">Profile</Link>
